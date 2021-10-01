@@ -14,6 +14,7 @@
 		95A6BA6D2707844B001C15EB /* AppTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6BA6C2707844B001C15EB /* AppTabBarView.swift */; };
 		95A6BA6F27078555001C15EB /* CustomTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6BA6E27078555001C15EB /* CustomTabBarView.swift */; };
 		95A6BA7127078A16001C15EB /* CustomTabBarContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6BA7027078A16001C15EB /* CustomTabBarContainerView.swift */; };
+		95A6BA7327078E89001C15EB /* TabBarItemsPreferenceKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6BA7227078E89001C15EB /* TabBarItemsPreferenceKey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		95A6BA6C2707844B001C15EB /* AppTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabBarView.swift; sourceTree = "<group>"; };
 		95A6BA6E27078555001C15EB /* CustomTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarView.swift; sourceTree = "<group>"; };
 		95A6BA7027078A16001C15EB /* CustomTabBarContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarContainerView.swift; sourceTree = "<group>"; };
+		95A6BA7227078E89001C15EB /* TabBarItemsPreferenceKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItemsPreferenceKey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				95A6BA6C2707844B001C15EB /* AppTabBarView.swift */,
 				95A6BA6E27078555001C15EB /* CustomTabBarView.swift */,
 				95A6BA7027078A16001C15EB /* CustomTabBarContainerView.swift */,
+				95A6BA7227078E89001C15EB /* TabBarItemsPreferenceKey.swift */,
 			);
 			path = CustomTabBat;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				95A6BA60270783EB001C15EB /* ContentView.swift in Sources */,
 				95A6BA5E270783EB001C15EB /* CustomTabViewInSwiftUIApp.swift in Sources */,
 				95A6BA6D2707844B001C15EB /* AppTabBarView.swift in Sources */,
+				95A6BA7327078E89001C15EB /* TabBarItemsPreferenceKey.swift in Sources */,
 				95A6BA6F27078555001C15EB /* CustomTabBarView.swift in Sources */,
 				95A6BA7127078A16001C15EB /* CustomTabBarContainerView.swift in Sources */,
 			);
