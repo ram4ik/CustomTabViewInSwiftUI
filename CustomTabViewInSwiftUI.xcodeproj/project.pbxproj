@@ -13,6 +13,7 @@
 		95A6BA65270783ED001C15EB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95A6BA64270783ED001C15EB /* Preview Assets.xcassets */; };
 		95A6BA6D2707844B001C15EB /* AppTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6BA6C2707844B001C15EB /* AppTabBarView.swift */; };
 		95A6BA6F27078555001C15EB /* CustomTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6BA6E27078555001C15EB /* CustomTabBarView.swift */; };
+		95A6BA7127078A16001C15EB /* CustomTabBarContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6BA7027078A16001C15EB /* CustomTabBarContainerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		95A6BA64270783ED001C15EB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		95A6BA6C2707844B001C15EB /* AppTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabBarView.swift; sourceTree = "<group>"; };
 		95A6BA6E27078555001C15EB /* CustomTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarView.swift; sourceTree = "<group>"; };
+		95A6BA7027078A16001C15EB /* CustomTabBarContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarContainerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				95A6BA6C2707844B001C15EB /* AppTabBarView.swift */,
 				95A6BA6E27078555001C15EB /* CustomTabBarView.swift */,
+				95A6BA7027078A16001C15EB /* CustomTabBarContainerView.swift */,
 			);
 			path = CustomTabBat;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				95A6BA5E270783EB001C15EB /* CustomTabViewInSwiftUIApp.swift in Sources */,
 				95A6BA6D2707844B001C15EB /* AppTabBarView.swift in Sources */,
 				95A6BA6F27078555001C15EB /* CustomTabBarView.swift in Sources */,
+				95A6BA7127078A16001C15EB /* CustomTabBarContainerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
